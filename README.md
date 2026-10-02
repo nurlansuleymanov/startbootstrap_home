@@ -31,3 +31,26 @@ The main focus was:
 ✅ Simple footer section  
 
 ## 📂 Project Structure
+
+
+## 🎯 Learning Goals
+
+Through this project I practiced:
+
+- Bootstrap container and grid system
+- Flexbox layout
+- CSS positioning (`relative`, `absolute`)
+- Layer management with `z-index`
+- Gradient effects
+- Icon integration
+- Clean HTML structure
+
+## 📸 Preview
+
+![Website Preview](screenshot.png)
+
+## 👨‍💻 Author
+
+**Nurlan**
+
+Frontend learning project built as part of Full Stack Developer training.
